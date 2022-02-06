@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expenses-list-react/static/css/main.022d5f18.css",
+    "main.js": "/expenses-list-react/static/js/main.e4f29f7d.js",
+    "index.html": "/expenses-list-react/index.html",
+    "main.022d5f18.css.map": "/expenses-list-react/static/css/main.022d5f18.css.map",
+    "main.e4f29f7d.js.map": "/expenses-list-react/static/js/main.e4f29f7d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.022d5f18.css",
+    "static/js/main.e4f29f7d.js"
+  ]
+}
