@@ -1,7 +1,4 @@
 <h1>issue with api.. need to add suitable api for backend data.</h1>
-/////
-
-
 
 # Getting Started with Create React App
 
