@@ -1,4 +1,4 @@
-Issue with api.
+Issue with API.
 
 # Getting Started with Create React App
 
